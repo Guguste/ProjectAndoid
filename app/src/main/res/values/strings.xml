@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AWALE</string>
+
+    <string name="a_jo_de_jouer">au joueur 1</string>
+
+    <string name="j0_">Joueur 1</string>
+    <string name="j1_">Joueur 2</string>
+
+    <string name="textview1">textview1</string>
+    <string name="textview2">textview2</string>
+    <string name="textView3">textview3</string>
+    <string name="textView4">textview4</string>
+    <string name="textView5">textview5</string>
+    <string name="reset">reset</string>
+
+    <string name="button_plateau0"></string>
+    <string name="button_plateau1"></string>
+    <string name="button_plateau2"></string>
+    <string name="button_plateau3"></string>
+    <string name="button_plateau4"></string>
+    <string name="button_plateau5"></string>
+    <string name="button_plateau6"></string>
+    <string name="button_plateau7"></string>
+    <string name="button_plateau8"></string>
+    <string name="button_plateau9"></string>
+    <string name="button_plateau10"></string>
+    <string name="button_plateau11"></string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
